@@ -75,13 +75,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/mrittickdeb/mrittickdeb/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📈 Visitors Count
 
